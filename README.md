@@ -3,7 +3,7 @@
 📄 **Author:** Sushrutha S Hegde  
 📅 **Date:** June 11, 2025  
 📘 **DOI:** [10.36227/techrxiv.174961956.66831576/v1](https://doi.org/10.36227/techrxiv.174961956.66831576/v1)  
-📝 **Preprint on TechRxiv:** [View Here](https://www.techrxiv.org/articles/preprint/Green_Coding_for_Low-Resource_Environments_Energy_Efficiency_of_Regex_vs_Manual_Text_Processing/27496196)
+
 
 ## 🔍 Abstract
 The growing emphasis on sustainable computing necessitates energy-efficient coding practices, especially in low-resource environments...
